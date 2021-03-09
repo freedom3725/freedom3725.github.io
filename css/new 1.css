@@ -1,9 +1,9 @@
 body {
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 h1 {
 	text-transform: capitalize;
 }
 .subheading {
-	text-transform: capitalize;
+	text-transform: lowercase;
 }
