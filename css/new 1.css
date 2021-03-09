@@ -1,7 +1,7 @@
 body {
 	text-transform: lowercase;
 }
-h1 {
+.text-primary {
 	text-transform: uppercase;
 }
 .subheading {
