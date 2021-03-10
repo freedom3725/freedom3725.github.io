@@ -7,3 +7,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .subheading {
 	text-transform: none;
 }
+body {
+	text-align: justify;
+}
+h1 {
+	text-transform: justify;
+}
+.subheading {
+	text-transform: justify;
+}
