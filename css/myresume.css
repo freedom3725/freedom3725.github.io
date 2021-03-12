@@ -3,11 +3,34 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC' , sans-serif;
 	
 }
+
 .subheading {
 	font-family: 'Noto Sans TC' , sans-serif;
+	font-size: 1.2rem;
+	font-weight: normal;
 }
-
 
 h1, h2, h3, h4, h5, h6, .subheading{
 	text-transform: none;
+}
+h1, .h1 {
+	font-size: 5rem;
+}
+
+p.lead {
+	font-size: 1.2;
+}
+
+.bg-primary {
+	background-color: #00bcc2!important;
+	background-image: url(../assets/img/always-gray.png);
+/* This is mostlt intended for prototyping; please download the pattern and re-host for production environmenty.Thank you! */
+}
+
+.text-primary {
+	color: #00bcc2!important;
+}
+
+a {
+	color: #00bcc2;
 }
