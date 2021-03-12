@@ -1,18 +1,13 @@
-body {
-	font-family: 'Noto Sans TC' , sans-serif;
-}
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC' , sans-serif;
+	
 }
 .subheading {
 	font-family: 'Noto Sans TC' , sans-serif;
 }
-body {
-	text-transform: none;
-}
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	text-transform: none;
-}
-.subheading {
+
+
+h1, h2, h3, h4, h5, h6, .subheading{
 	text-transform: none;
 }
