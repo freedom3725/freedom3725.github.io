@@ -31,3 +31,7 @@ p.lead {
 .text-primary {
 	color: #00bcc2!important;
 }
+
+element.style {
+	color:green
+}
