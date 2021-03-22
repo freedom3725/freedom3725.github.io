@@ -24,8 +24,8 @@ p.lead {
 }
 
 .bg-primary {
-	background-image: url(../assets/img/email-pattern.png);
 	background-color: #00bcc2!important;
+	background-image: url(../assets/img/email-pattern.png);
 }
 
 .text-primary {
