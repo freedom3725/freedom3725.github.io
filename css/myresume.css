@@ -1,5 +1,9 @@
 body {
 	font-family: 'Noto Sans TC' , sans-serif;
+	background-image: url("little prince.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -40,9 +44,3 @@ a {
 	color: #d0b001;
 }
 
-body {
-	background-image: url("little prince.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
-}
