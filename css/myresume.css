@@ -1,6 +1,6 @@
 body {
 	font-family: 'Noto Sans TC' , sans-serif;
-	background-color: black;
+	background-image: url(../assets/img/little prince.jpg);
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
