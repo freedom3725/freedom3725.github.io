@@ -40,11 +40,9 @@ a {
 	color: #d0b001;
 }
 
-<style>
 body {
-  background-image: url('img_girl.jpg');
+  background-image: url(../assets/img/img_6864.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-</style>
