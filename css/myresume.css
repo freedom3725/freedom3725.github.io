@@ -1,17 +1,19 @@
 body {
 	font-family: 'Noto Sans TC' , sans-serif;
-	background-color: black;
+	background-color: 0c0908;
 	color: #d0b001;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Sans TC' , sans-serif;	
+	color: #d0b001;
 }
 
 .subheading {
 	font-family: 'Noto Sans TC' , sans-serif;
 	font-size: 1.2rem;
 	font-weight: normal;
+	color: #d0b001;
 }
 
 h1, h2, h3, h4, h5, h6, .subheading{
@@ -41,8 +43,3 @@ a {
 .navbar-nav .nav-item .nav-link {
 	color: #d0b001;
 }
-
-head {
-	color: #d0b001;
-}
-
