@@ -53,6 +53,6 @@ th, td {
 }
 
 body {
-	background: url("s.png") no-repeat right top;
+	background: url("s.png") no-repeat right;
 	margin-right: 200px;
 }
