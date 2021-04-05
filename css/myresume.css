@@ -53,6 +53,9 @@ th, td {
 }
 
 body {
-	background: url("s.png") no-repeat right;
+	background-image: url("s.png");
+	background-repeat: no-repeat;
+	background-position: right top;
 	margin-right: 200px;
+	background-attachment: fixed;
 }
