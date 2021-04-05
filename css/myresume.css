@@ -51,3 +51,7 @@ th, td {
 	border-bottom: 1px solid #d0b001;
 	font-size: 0.9rem;
 }
+
+h2 {
+	text-align: left;
+}
