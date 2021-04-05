@@ -51,3 +51,8 @@ th, td {
 	border-bottom: 1px solid #d0b001;
 	font-size: 0.9rem;
 }
+
+body {
+  background: #ffffff url("d.jpg") no-repeat right top;
+  margin-right: 200px;
+}
