@@ -1,7 +1,6 @@
 body {
 	font-family: 'Noto Sans TC' , sans-serif;
 	background-image: url(../assets/img/z.jpg);
-	color: #d0b001;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -16,6 +15,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 h1, h2, h3, h4, h5, h6, .subheading{
 	text-transform: none;
+	color: white;
 }
 h1, .h1 {
 	font-size: 5rem;
