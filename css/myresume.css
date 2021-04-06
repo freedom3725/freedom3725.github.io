@@ -52,3 +52,7 @@ th, td {
 	border-bottom: 1px solid #d0b001;
 	font-size: 0.9rem;
 }
+
+a:hover {
+	background-color: #d0b001;
+}
