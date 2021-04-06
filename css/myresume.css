@@ -5,6 +5,7 @@ body {
 	background-position: right;
 	margin-right: 100px;
 	background-attachment: fixed;
+	opacity: 0.3;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
