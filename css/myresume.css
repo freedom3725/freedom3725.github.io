@@ -1,6 +1,7 @@
 body {
 	font-family: 'Noto Sans TC' , sans-serif;
 	background: #ffffff url(../assets/img/s.png) no-repeat fixed right;
+	background-image: url(../assets/img/z.jpg);
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
