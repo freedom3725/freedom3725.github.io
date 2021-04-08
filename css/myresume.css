@@ -25,16 +25,16 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: #d0b001!important;
+	background-color: #0f4c81!important;
 	background-image: url(../assets/img/d.jpg);
 }
 
 .text-primary {
-	color: #d0b001!important;
+	color: #0f4c81!important;
 }
 
 a {
-	color: #d0b001;
+	color: #0f4c81;
 }
 
 .navbar-nav .nav-item .nav-link {
@@ -49,6 +49,6 @@ table {
 th, td {
 	padding: 8px;
 	text-align: left;
-	border-bottom: 1px solid #d0b001;
+	border-bottom: 1px solid #0f4c81;
 	font-size: 0.9rem;
 }
