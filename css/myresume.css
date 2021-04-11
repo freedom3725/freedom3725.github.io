@@ -47,7 +47,7 @@ table {
 	width: 100%;
 }
 
-.small-text text-primary small-text {
+span.small-text .text-primary .small-text {
 	padding: 8px;
 	text-align: left;
 	border-bottom: 1px solid #0f4c81;
