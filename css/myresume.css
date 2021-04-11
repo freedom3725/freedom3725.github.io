@@ -52,3 +52,7 @@ th, td {
 	border-bottom: 1px solid #0f4c81;
 	font-size: 0.9rem;
 }
+
+.img{
+	opacity: 0.3;
+}
