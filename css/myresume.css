@@ -57,3 +57,7 @@ th, td {
 .1.jpg{
 	opacity: 0.3;
 }
+
+.text-primary {
+	color: #0f4c81!important;
+}
