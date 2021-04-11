@@ -47,13 +47,9 @@ table {
 	width: 100%;
 }
 
-span.small-text .text-primary .small-text {
+th, td {
 	padding: 8px;
 	text-align: left;
 	border-bottom: 1px solid #0f4c81;
 	font-size: 0.9rem;
-}
-
-.1.jpg{
-	opacity: 0.3;
 }
